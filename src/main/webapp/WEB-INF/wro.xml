@@ -1,0 +1,19 @@
+<groups xmlns="http://www.isdc.ro/wro">
+	<group name="lib">
+		<js>/lib/jquery.js</js>
+		<js>/lib/underscore.js</js>
+		<js>/lib/backbone.js</js>
+	</group>
+
+	
+	<group name="app">
+		<js>/js/models/*.js</js>
+		<js>/js/views/*.js</js>
+
+		<js>/js/*.js</js>
+	</group>
+
+	<group name="style">
+		<css>/css/*.css</css>
+	</group>
+</groups>  
